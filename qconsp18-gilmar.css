@@ -3,7 +3,6 @@
 
 .rise-enabled {
     background-color: #fff;
-    font-family: 'Montserrat', sans-serif;
 }
 
 div.cover {
@@ -15,11 +14,13 @@ div.cover {
 
 div.cover h1 {
     color: #fff;
+    font-family: 'Montserrat', sans-serif;
     font-size: 60px;
 }
 
 div.cover h2 {
     color: #fff;
+    font-family: 'Montserrat', sans-serif;
     font-size: 38px;
 }
 
@@ -35,6 +36,7 @@ div.divider {
 div.divider h1 {
     color: #fff;
     font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
     vertical-align:middle;
     display:table-cell;
 }
