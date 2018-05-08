@@ -40,3 +40,8 @@ div.divider h1 {
     vertical-align:middle;
     display:table-cell;
 }
+
+div.source {
+    font-size: 12px;
+    vertical-align:right;
+}
