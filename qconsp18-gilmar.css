@@ -29,19 +29,19 @@ div.divider {
     height: 800px;
     width: 100%;
     padding: 100px;
-    display:table;
-    text-align:left;
+    display: table;
+    text-align: left;
 }
 
 div.divider h1 {
     color: #fff;
     font-size: 60px;
     font-family: 'Montserrat', sans-serif;
-    vertical-align:middle;
-    display:table-cell;
+    vertical-align: middle;
+    display: table-cell;
 }
 
 div.source {
     font-size: 12px;
-    vertical-align:right;
+    vertical-align: right;
 }
