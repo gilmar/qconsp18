@@ -24,6 +24,17 @@ div.cover h2 {
     font-size: 38px;
 }
 
+div.cover h3 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+div.cover a:link { color: #fff; }
+div.cover a:visited { color: #fff; }
+div.cover a:hover { color: #fff; }
+div.cover a:active { color: #fff; }
+
 div.divider {
     background-color: #513147;
     height: 800px;
